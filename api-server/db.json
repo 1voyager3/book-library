@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51twTD7NDXL._SX318_BO1,204,203,200_.jpg",
+      "title": "Around the World in 80 Days",
+      "author": "Jules Verne ",
+      "description": "An entry in The Whole Story series, this is an annotated edition of the 1873 classic, printed on coated stock and enhanced by both atmospheric new paintings and hundreds of postage-stamp-sized 19th-century photos and prints. The explanatory captions (credited to Jean-Pierre Verdet only on the copyright page) accompanying the latter are largely superfluous, although they do add random snippets of historical background to the journey. It's the views of old ships and trains, of costumed natives, and distant ports of call - from Port Said to San Francisco - that evoke the tale's panorama of the exotic, just as the many lurid Verne trading cards and other spinoffs capture the plot's melodramatic highlights. A good way to put both book and story in context for young armchair travelers. --Kirkus Reviews.",
+      "userId": "103807138844799560930",
+      "id": 1
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare ",
+      "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41stzQ0MsgL._SX318_BO1,204,203,200_.jpg",
+      "description": "Undoubtedly the most famous of all of Shakespeare's plays, Hamlet remains one of the most enduring but also enigmatic pieces of western literature. The story of Hamlet, the young Prince of Denmark, his tortured relationship with his mother, and his quest to avenge his father's murder at the hand of his brother Claudius has fascinated writers and audiences ever since it was written around 1600. For many years interest focused on both Hamlet's inability to avenge his father's death, claiming that \"the native hue of resolution / Is sicklied o'er with the pale cast of thought\", and, according to none other than Freud, his oedipal fixation with his mother. However, more recently critics have turned their attention to Hamlet's bold theatrical self-reflexivity (most famously reflected in the performance of \"The Mousetrap\"), its fascination with issues of theology and Renaissance humanism, and its dense, complex poetic language. What is so remarkable about the play is the way in which it tends to uncannily reflect the concerns of different epochs. As a result, Hamlet has been at different moments defined as a romantic rebel, an angst-ridden existentialist, a paralysed intellectual and an ambivalent New Man. Whatever subsequent generations make of Hamlet, they are unlikely to exhaust the possibilities of this most extraordinary play. --Jerry Brotton",
+      "userId": "103807138844799560930",
+      "id": 2
+    },
+    {
+      "description": "Don Quixote is the first modern novel, perhaps the most eternal novel ever written and certainly the fountainhead of European and American fiction -- Carlos Fuentes  What a unique monument is this book! How its creative genius, critical, free, and human, soars above its age! -- Thomas Mann  A fluent translation-has energy and clarity-and the rhythm of the telling is compelling, Guardian  Indisputably the definitive translation, Observer  Cervantes is the founder of the Modern Era. The novelist need answer to no one but Cervantes. Don Quixote is practically unthinkable as a living being, and yet, in our memory, what character is more alive? -- Milan Kundera.",
+      "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41xTnQXBfyL._SX325_BO1,204,203,200_.jpg",
+      "author": "Miguel De Cervantes",
+      "title": "Don Quixote",
+      "userId": "103807138844799560930",
+      "id": 3
+    }
+  ],
+  "movies": [],
+  "musics": []
+}

@@ -115,7 +115,10 @@ class BookList extends Component {
                 <h2>Books</h2>
                 <div
                     className="ui celled list"
-                    style={{display: "flex"}}
+                    style={{
+                        display: "flex",
+                        flexWrap: "wrap",
+                    }}
                 >
                     {this.renderList()}
                 </div>
